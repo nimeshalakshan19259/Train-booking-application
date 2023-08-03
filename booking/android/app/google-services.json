@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "692093625073",
+    "project_id": "railwayticketbooking-b948c",
+    "storage_bucket": "railwayticketbooking-b948c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692093625073:android:5e27ec8fc9a686b0e5bf50",
+        "android_client_info": {
+          "package_name": "com.example.booking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIDcnOlj2S5mpjnY8eo4AJPi285m8-ttQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
